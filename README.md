@@ -1,7 +1,7 @@
 ### This is forty-twoo 🐯✌️
 
-- 🕵️‍♀️ I am currently a first-year student of College of Computer Science and Technology at Zhejiang University. 
-- 🤓 I am a CG beginner, currently I am learning OpenGL and some basic rendering techniques.
+- 🕵️‍♀️ I am a first-year student of College of Computer Science and Technology at Zhejiang University. 
+- 🤓 Currently I am learning OpenGL and some basic rendering techniques for I am a CG beginner.
 - 🛸 My research interest includes Physics-Based Animation and Real-Time Rendering.
 
 

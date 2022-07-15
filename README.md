@@ -5,4 +5,5 @@
 - 🛸 My research interest includes Physics-Based Animation and Real-Time Rendering.
 
 
-![forty-twoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=forty-twoo&show_icons=true)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=forty-twoo&show_icons=true">
+

@@ -1,4 +1,4 @@
-### This is forty-twoo 🐯✌️
+### This is forty-twoo ✌️🐯
   
 - 🕵️‍♀️ I am a first-year master student of College of Computer Science and Technology at Zhejiang University. 
 - 🤓 Currently I am learning OpenGL and some basic rendering techniques for I am a CG beginner.

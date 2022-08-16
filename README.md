@@ -2,7 +2,7 @@
   
 - 🕵️‍♀️ I am a first-year master student of College of Computer Science and Technology at Zhejiang University. 
 - 🤓 Currently I am learning Geometry Processing.
-- 🛸 My research interest includes Physics-based Simulation and Real-Time Rendering.
+- 🛸 My research interest includes Geometry Processing and Physics-based Simulation.
 - ✨ My favorite manga is Dorohedoro.
 <br/><br/>
 

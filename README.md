@@ -1,7 +1,7 @@
 ### This is forty-twoo ✌️🐯
   
 - 🕵️‍♀️ I am a first-year master student of College of Computer Science and Technology at Zhejiang University. 
-- 🤓 Currently I am learning Geometry Processing.
+- 🤓 Currently I am learning Isogeometric analysis.
 - 🛸 My research interest includes Geometry Processing and Physics-based Simulation.
 - ✨ My favorite manga is Dorohedoro.
 <br/><br/>
